@@ -6,7 +6,7 @@
     "dist/firebaseui__el.js",
     "dist/firebaseui.css",
     "dist/npm__el.js",
-    "dist/esm.js",
+    "dist/esm__el.js",
     "dist/index.d.ts",
     "dist/externs",
     "LICENSE",
@@ -14,7 +14,7 @@
     "package.json"
   ],
   "main": "./dist/npm__el.js",
-  "module": "./dist/esm.js",
+  "module": "./dist/esm__el.js",
   "types": "./dist/index.d.ts",
   "style": "dist/firebaseui.css",
   "scripts": {
@@ -31,7 +31,7 @@
   "author": "Google",
   "repository": {
     "type": "git",
-    "url": "https://github.com/AggelosM/firebaseui-web.git"
+    "url": "https://github.com/firebase/firebaseui-web.git"
   },
   "publishConfig": {
     "registry": "https://wombat-dressing-room.appspot.com"
