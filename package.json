@@ -3,18 +3,18 @@
   "version": "4.7.1",
   "description": "Javascript library for customizable UI on top of Firebase SDK",
   "files": [
-    "dist/firebaseui__el.js",
+    "dist/firebaseui__ko.js",
     "dist/firebaseui.css",
-    "dist/npm__el.js",
-    "dist/esm__el.js",
+    "dist/npm__ko.js",
+    "dist/esm__ko.js",
     "dist/index.d.ts",
     "dist/externs",
     "LICENSE",
     "README.md",
     "package.json"
   ],
-  "main": "./dist/npm__el.js",
-  "module": "./dist/esm__el.js",
+  "main": "./dist/npm__ko.js",
+  "module": "./dist/esm__ko.js",
   "types": "./dist/index.d.ts",
   "style": "dist/firebaseui.css",
   "scripts": {
